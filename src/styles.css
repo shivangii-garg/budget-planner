@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+}
+
+.totalBudgetBox {
+  height: 20px;
+  width: 50px;
+  background-color: "red";
+  border: "1px solid black";
+}
+
+.remainingBudgetBox {
+  height: "20px";
+  width: "50px";
+  background-color: "red";
+}
+
+.spentBudgetBox {
+  height: "20px";
+  width: "50px";
+  background-color: "red";
+}
